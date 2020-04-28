@@ -4,3 +4,4 @@ The RetardedClient is completely free to use for personal and commercial usage. 
 We are operating under german law.
 For more information please contact actuallyronics@web.de
 If you are not willing to agree to the earlier told terms, please uninstall RetardedClient and/or delete it.
+ 
